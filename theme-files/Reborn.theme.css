@@ -21,7 +21,7 @@ Registered: Black Box Theme
 */
 
 :root {
-  --roundness: 50px; /* edit roundness of icons from 0px to 50px */
+  --roundness: 20px; /* edit roundness of icons from 0px to 50px */
  --main-color: #007dbd; /* Main Color */     
   --hover-color: #03679b; /* Hover Color */
   --home-color: #eee; /* Change home icon color */
@@ -30,7 +30,7 @@ Registered: Black Box Theme
  --background-image: url(https://images3.alphacoders.com/994/thumb-1920-994295.png); /* change background */
   --background-blur: 0px; /* Main Background Blur */
 --popup-background: url(https://images3.alphacoders.com/994/thumb-1920-994295.png);  /* Background for popups and modals */
-  --background-darkness: 0.75; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
+  --background-darkness: 0.15; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
 }
 
 
